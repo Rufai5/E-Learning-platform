@@ -9,18 +9,18 @@ This website aplication allow anonymous user to get access to our courses withou
 **WEB ARCHITECTURE**
 
 
-![webstructure](https://github.com/Kitesa/E-Learning-platform/assets/67538957/eb349d3f-fc52-4c63-9412-584a591b41e4)
+![webstructure](https://github.com/Rufai5/E-Learning-platform/assets/67538957/eb349d3f-fc52-4c63-9412-584a591b41e4)
 
 **TECHNOLOGY USED**
 
 
-![TECHNOLOGY_USED1](https://github.com/Kitesa/E-Learning-platform/assets/67538957/5f2dc4e7-d968-4f00-ac0b-26575d493646)
+![TECHNOLOGY_USED1](https://github.com/Rufai5/E-Learning-platform/assets/67538957/5f2dc4e7-d968-4f00-ac0b-26575d493646)
 =====================================================================================================================================
-![TECHNOLOGY USED2](https://github.com/Kitesa/E-Learning-platform/assets/67538957/d5837c7f-3ea3-4b5a-aa2d-dd2015dacb63)
+![TECHNOLOGY USED2](https://github.com/Rufai5/E-Learning-platform/assets/67538957/d5837c7f-3ea3-4b5a-aa2d-dd2015dacb63)
 =====================================================================================================================================
-![TECHNOLGY USED3](https://github.com/Kitesa/E-Learning-platform/assets/67538957/637b3840-1699-4a85-b4e1-a35e4fab46c9)
+![TECHNOLGY USED3](https://github.com/Rufai5/E-Learning-platform/assets/67538957/637b3840-1699-4a85-b4e1-a35e4fab46c9)
 =====================================================================================================================================
-![TECHNOLOGY USED4](https://github.com/Kitesa/E-Learning-platform/assets/67538957/38d56096-7416-4d7d-b1b6-5b7ed84f198c)
+![TECHNOLOGY USED4](https://github.comRufai5a/E-Learning-platform/assets/67538957/38d56096-7416-4d7d-b1b6-5b7ed84f198c)
 
 
 
@@ -36,7 +36,7 @@ This website aplication allow anonymous user to get access to our courses withou
 
 **ANY PROBLEM? OR WANT TO CONTRIBUTE ?**
 
-_CONTACT AT "kitesamerga@gmail.com"_
+_CONTACT AT "muhammedrufai@yahoo.com"_
 
 see deployed version of the app 
 https://feedback.blueboard.tech
